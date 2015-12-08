@@ -1,5 +1,8 @@
 # Talos3D
 
+Please join us at our <a href="https://plus.google.com/u/0/communities/106411395795447750286">G+ group</a>
+
+
 <img src="http://i.imgur.com/IbKlIcv.jpg"/>
 
 ## Assembly
